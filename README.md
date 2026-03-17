@@ -1,4 +1,4 @@
-# 🤖 Kiosko AMY (Asistente Multimodal Autónomo)
+# 🤖 Kiosko ADA
 
 ![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-yellow)
 ![Arquitectura](https://img.shields.io/badge/Arquitectura-Fog_Computing-blue)
@@ -6,7 +6,7 @@
 
 ## 📖 Sobre el Proyecto
 
-**AMY** es un Kiosco Universitario Inteligente diseñado para ofrecer asistencia interactiva y accesible a los estudiantes. Utiliza Inteligencia Artificial Generativa y una arquitectura de *Fog Computing* para operar de manera autónoma, procesando voz a texto (ASR), razonamiento con modelos de lenguaje (LLMs) y síntesis de voz (TTS) en tiempo real.
+**ADA** es un Kiosco Universitario Inteligente diseñado para ofrecer asistencia interactiva y accesible a los estudiantes. Utiliza Inteligencia Artificial Generativa y una arquitectura de *Fog Computing* para operar de manera autónoma, procesando voz a texto (ASR), razonamiento con modelos de lenguaje (LLMs) y síntesis de voz (TTS) en tiempo real.
 
 El proyecto se centra en la **accesibilidad universal**, permitiendo la interacción mediante voz (para personas con discapacidad visual) y apoyos gráficos/subtítulos (para personas con discapacidad auditiva), eliminando la dependencia a la conectividad web pública.
 
@@ -21,7 +21,7 @@ El proyecto se divide en dos nodos principales que se comunican a través de una
 ## 📂 Estructura del Repositorio
 
 ```text
-Kiosko-Amy/
+Kiosko-ADA/
 ├── client/      # Interfaz gráfica y control de hardware (Raspberry Pi)
 ├── server/      # Servicios Docker, API REST/WebSockets y RAG pipeline
 ├── docs/        # Documentación técnica, diagramas y notas MD
